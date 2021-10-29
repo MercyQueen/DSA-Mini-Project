@@ -32,3 +32,11 @@ click on any one of the given link and download the .exe file.
 
 - https://github.com/MercyQueen/DSA-Mini-Project
 - https://drive.google.com/file/d/1z0vMRX6xWBq5_LpynXDpHWx9uBExcIt_/view?usp=sharing
+
+
+## Demo
+
+click on the following link to go through the glimpses of the project.
+- https://drive.google.com/file/d/1Rr-qJ-ioJs8ke8PbSouTLJmCd4LvkGoy/view?usp=sharing
+
+
