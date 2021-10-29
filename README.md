@@ -31,7 +31,7 @@ Below are some of the screenshots of the screenshots of the frames available in 
 click on any one of the given link and download the .exe file.
 
 - https://github.com/MercyQueen/DSA-Mini-Project
-- https://drive.google.com/file/d/1z0vMRX6xWBq5_LpynXDpHWx9uBExcIt_/view?usp=sharing
+- https://drive.google.com/file/d/1f1VnVi9oWzUIi8EHQiYZ-A0e8DUGe4Zd/view?usp=sharing
 
 
 ## Demo
